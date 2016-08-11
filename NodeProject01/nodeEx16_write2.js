@@ -16,5 +16,5 @@ fs.writeFile('fsFile02.txt', 'Hello World..!2', 'utf-8', function(error){
 	if(error)
 		throw error;
 	
-	console.log('FILE WRITE COMPLETE');
+	console.log('FILE WRITE COMPLETE. Update~!!!');
 })
